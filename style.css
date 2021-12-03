@@ -1,0 +1,39 @@
+
+body{
+    font-family: 'Shadows Into Light', cursive;
+    background-color: gold;
+}
+
+.header_div{
+    background-color: indigo;
+    color: lightcyan;
+}
+
+.header_div p{
+     font-family: 'Indie Flower', cursive;
+     color:lightcyan;
+     letter-spacing: 2px;
+     font-size: 15px;
+     font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Lobster', cursive;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: initial;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 18px;
+    width: 100% ;
+    background-color:yellow;
+    line-height: 3;
+    bottom: 0;
+    text-shadow: 2px 2px 2px black;
+}
